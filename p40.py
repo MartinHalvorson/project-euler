@@ -1,4 +1,6 @@
 '''
+Doing the math by hand
+
 1 x 9 = 9
 2 x 90 = 180 (5)
 3 x 900 = 2700 (3)
@@ -16,3 +18,6 @@
 
 210
 '''
+
+s = ''.join(str(i) for i in range(1, 300000))
+print(int(s[0]) * int(s[9]) * int(s[99]) * int(s[999]) * int(s[9999]) * int(s[99999]) * int(s[999999]))
