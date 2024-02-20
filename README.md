@@ -1,3 +1,3 @@
 # project-euler
 
-Using projecteuler.net/archives to refresh on programming languages.
+projecteuler.net/archives
