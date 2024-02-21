@@ -17,6 +17,7 @@ Doing the math by hand
 1000000 -> 1
 
 210
+
 '''
 
 s = ''.join(str(i) for i in range(1, 300000))
